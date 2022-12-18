@@ -1,6 +1,6 @@
 # Create a dictionary with the countries as keys and the years they won as values
 countries_and_years = {
-  'Argentina': [1978, 1986],  
+  'Argentina': [1978, 1986, 2022],  
   'Brazil': [1958, 1962, 1970, 1994, 2002],
   'England': [1966],
   'France': [1998, 2018],
